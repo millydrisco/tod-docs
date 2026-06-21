@@ -30,6 +30,8 @@ _It just makes no sense to me that someone who has an in-depth knowledge of how 
 _*Druid_
 _Wildshape rules_ 
 
+___
+
 ## Extra Spells and Attacks
 There are times in combat or even in roleplay that casting a spell or doing an extra attack makes thematic sense. Maybe your mother is in peril, maybe you’ve just been dealt a fatal blow but want to protect your friends with your final breath because thats what your character would do. 
 
@@ -42,9 +44,13 @@ I’m here to make a great fucking story with my friends, so if you’re convinc
 | 7-9 | You take 1 level of exhaustion | You take 1 level of exhaustion |
 | 10 | You cast the spell with no ill effect | You take the action with no ill effect |
 
+___
+
 ## Death Saves
 Death saves are to be rolled privately, preferably by real dice and you send me the picture of it. I will then describe the visions and memories that your player is experiencing. 
 Then you guys will need to work out things are going from interpreting the dreams/experiences. I feel like this is a good balance between metagaming death saves and being completely in the dark. 
+
+___
 
 ## Combat Timing
 In order to keep combat snappy and feeling tense, we’re going to implement a timer (not too strict) of 3 minutes per turn.
