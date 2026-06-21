@@ -1,2 +1,4 @@
 - [Home](README.md)
-- [Admin](Admin.md)
+
+- Admin
+  - [Absences](absences.md)
