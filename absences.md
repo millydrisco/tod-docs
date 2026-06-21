@@ -13,6 +13,8 @@ I try to make sure everyone has their own story arcs, whether they're big or sma
 
 I've just wanted to provide the best experience whilst making sure nobody misses out - but I can see now that people are missing out in different ways so hopefully the new "policy" is a better way around? Feedback is always welcome!
 
+___
+
 # Expected Absence
 These are when you know you will be missing a session with at least 24hrs notice. 
 
@@ -27,6 +29,8 @@ These are when you know you will be missing a session with at least 24hrs notice
 * If the expected absence is due to something emotional, or otherwise impacting that would mean the above steps are too much - reach out, I don't mind doing the work.
 * These steps also apply to me.
 
+___
+
 # Unexpected Absence - The shit has hit the fan
 You didn't see this coming, you're sick, your car broke down, you stabbed a guy and now you have to hide a whole body! Whoopsies, sometimes these things happen!
 
@@ -36,6 +40,8 @@ No one is going to throw a fit.
 * I need you to reach out to *me specifically* or at least tag me in your post in the discord.
 * If we're in the middle of a story arc that is directly related to **your character** it's going to be tricky to continue without you, but I *should* by now have gotten from all of you your preferences on how to handle your missingness for 1 or 2 sessions.
 * I'm going to need you to do a little bit of work for some of them though so bear that in mind.
+
+___
 
 # Options for Absence Handling
 
