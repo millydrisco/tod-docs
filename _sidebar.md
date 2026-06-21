@@ -1,2 +1,2 @@
-- [Home](README)
-- [Admin](Admin)
+- [Home](README.md)
+- [Admin](Admin.md)
