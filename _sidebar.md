@@ -12,3 +12,4 @@
   - **Characters**
   - **Misc**
   - [Notable Items](pages/lore/misc/items.md)
+  - [Dale Reckoning](pages/lore/misc/dale-rec.md)
