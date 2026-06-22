@@ -1,5 +1,14 @@
 - [Home](README.md)
 
-- Admin
+- **Admin**
   - [Absences](pages/admin/absences.md)
   - [House Rules](pages/admin/house-rules.md)
+- **Lore**
+  - **The Story**
+  - [Arc Summaries](pages/lore/story/arc-summ.md)
+  - [The Phlan Arc](pages/lore/story/phlan.md)
+  - [The Feywild Arc](pages/lore/story/feywild.md)
+  - [The Sword Coast Arc](pages/lore/story/sword-coast.md)
+  - **Characters**
+  - **Misc**
+  - [Notable Items](pages/lore/misc/items.md)
