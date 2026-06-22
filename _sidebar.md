@@ -5,10 +5,10 @@
   - [House Rules](pages/admin/house-rules.md)
 - **Lore**
   - **The Story**
-  - [Arc Summaries](pages/lore/arc-summ.mdarc-summ.md)
-  - [The Phlan Arc](pages/lore/full-arcs/phlan.md)
-  - [The Feywild Arc](pages/lore/full-arcs/feywild.md)
-  - [The Sword Coast Arc](pages/lore/full-arcs/sword-coast.md)
+  - [Arc Summaries](pages/lore/story/arc-summ.md)
+  - [The Phlan Arc](pages/lore/story/phlan.md)
+  - [The Feywild Arc](pages/lore/story/feywild.md)
+  - [The Sword Coast Arc](pages/lore/story/sword-coast.md)
   - **Characters**
   - **Misc**
-  - [Notable Items](pages/lore/items.md)
+  - [Notable Items](pages/lore/misc/items.md)
