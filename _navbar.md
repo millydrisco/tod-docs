@@ -8,4 +8,4 @@
   * PCs
   * Items
   * NPCs
-  * Arc Summaries
+  * [Arc Summaries](pages/lore/arc-summ.md)
