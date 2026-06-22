@@ -1,5 +1,5 @@
 - [Home](README.md)
 
 - Admin
-  - [Absences](absences.md)
-  - [House Rules](house-rules.md)
+  - [Absences](pages/admin/absences.md)
+  - [House Rules](pages/admin/house-rules.md)
