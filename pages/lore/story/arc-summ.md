@@ -4,11 +4,11 @@ There have been three major arcs so far through the campaign that can be split i
 
 The main campaign arcs are:
 
-- [The Phlan Arc](pages/lore/full-arcs/phlan.md)
-- The Feywild Arc
-- The Sword Coast Arc
+- [The Phlan Arc](pages/lore/story/phlan.md)
+- [The Feywild Arc](pages/lore/story/feywild.md)
+- [The Sword Coast Arc](pages/lore/story/sword-coast.md)
 
-The Campaign uses Dale Reckoning as it's in world calendar (an explainer to be added later - keep an eye out). I've done my best to give a general summary of the arcs below along with the in world dates they cover:
+The Campaign uses [Dale Reckoning](pages/lore/misc/dale-rec.md) as it's in world calendar. I've done my best to give a general summary of the arcs below along with the in world dates they cover:
 
 ## The Plan Arc: 26 Alturiak to 5 Ches 1489 DR
 
