@@ -21,10 +21,15 @@
 <style>
   .app-nav li a {
     color: var(--navbar-menu-link-color);
+    font-weight: var(--strong-font-weight);
     }
   #docsify-darklight-theme {
     top: 100px;
     right: 15px;
+  }
+  .app-name-link {
+    color: var(--navbar-menu-link-color);
+    font-weight: var(--strong-font-weight);
   }
 </style>
   
@@ -36,7 +41,7 @@
   <script>
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
     window.$docsify = {
-      name: 'What\'re you looking for?',
+      name: 'ToD Docs',
 
       // Sidebar Configuration
       auto2top: true,
@@ -47,7 +52,7 @@
 
       // Navbar configuration
 
-      loadNavbar: true,
+      loadNavbar: false,
 
       // Search Plugin Configuration
       search: {
