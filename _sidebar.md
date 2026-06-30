@@ -9,6 +9,7 @@
   - [The Phlan Arc](pages/lore/story/phlan.md)
   - [The Feywild Arc](pages/lore/story/feywild.md)
   - [The Sword Coast Arc](pages/lore/story/sword-coast.md)
+  - [Session Notes](pages/lore/story/session-logs-26.md)
   - **Characters**
   - **Misc**
   - [Notable Items](pages/lore/misc/items.md)
